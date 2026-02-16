@@ -1,6 +1,6 @@
 # 🏦 Bank Marketing Term Deposit Prediction
 
-This project implements an AI-driven solution to predict whether a client will subscribe to a term deposit based on the **Bank Marketing** dataset. This analysis helps banking institutions optimize their telemarketing strategies.
+This project implements an supervised machine learning solution to predict whether a client will subscribe to a term deposit based on the **Bank Marketing** dataset. This analysis helps banking institutions optimize their telemarketing strategies.
 
 ---
 
@@ -21,7 +21,7 @@ This project implements an AI-driven solution to predict whether a client will s
 
 ## 🛠️ Project Tasks & Implementation
 
-### 1. AI Solution Identification
+### 1. Solution Identification
 The problem is addressed using supervised machine learning. Various classification models (such as Random Forest, XGBoost, or Logistic Regression) were evaluated to determine the most effective predictor for client behavior.
 
 ### 2. Parameter Optimization
